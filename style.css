@@ -1,0 +1,84 @@
+.labels{
+margin-left:20px;
+}
+
+input{
+border:1px solid white;
+background:black;
+color:white;
+}
+
+#employee-form{
+    display:flex;
+}
+
+body {
+    font-family: Verdana;
+    background:black;
+}
+
+
+#form-container {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+button {
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+    margin-top: 10px;
+    cursor:pointer;
+}
+
+#message {
+    margin-top: 10px;
+}
+
+.error {
+    color: #ff4343;
+}
+
+.success {
+    color: #43ff78;
+}
+
+#employee-list {
+    margin-top: 20px;
+}
+
+.employee {
+    display: flex;
+margin-right:20px;
+}
+
+.employee button {
+    background-color: white;
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius:5px;
+}
+
+.employee button:hover {
+    background-color: black;
+    max-width:58%;
+    border-radius:5px;
+    border:1px solid white;
+    color:white;
+}
+
+span{
+border-radius:5px;
+border: 1px solid white;
+padding: 10px;
+margin-bottom:10px;
+}
+
+.btn{
+margin-left:20px;
+padding: 5px 25px 5px 25px;
+margin-bottom:10px;
+}
